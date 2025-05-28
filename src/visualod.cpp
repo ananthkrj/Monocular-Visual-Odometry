@@ -1,0 +1,1 @@
+// getting scale and main function
